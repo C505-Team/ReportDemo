@@ -1,0 +1,55 @@
+E:\tqf\资源管理器\资源管理器\bin\Debug\资源管理器.exe
+E:\tqf\资源管理器\资源管理器\bin\Debug\资源管理器.pdb
+E:\tqf\资源管理器\资源管理器\obj\x86\Debug\资源管理器.Form1.resources
+E:\tqf\资源管理器\资源管理器\obj\x86\Debug\资源管理器.Properties.Resources.resources
+E:\tqf\资源管理器\资源管理器\obj\x86\Debug\资源管理器.csproj.GenerateResource.Cache
+E:\tqf\资源管理器\资源管理器\obj\x86\Debug\资源管理器.exe
+E:\tqf\资源管理器\资源管理器\obj\x86\Debug\资源管理器.pdb
+E:\tqf\资源管理器\资源管理器\obj\x86\Debug\资源管理器.csprojResolveAssemblyReference.cache
+H:\软件\资源管理器\资源管理器\obj\x86\Debug\资源管理器.exe
+H:\软件\资源管理器\资源管理器\obj\x86\Debug\资源管理器.pdb
+H:\软件\资源管理器\资源管理器\obj\x86\Debug\资源管理器.csprojResolveAssemblyReference.cache
+H:\软件\资源管理器\资源管理器\obj\x86\Debug\资源管理器.Form1.resources
+H:\软件\资源管理器\资源管理器\obj\x86\Debug\资源管理器.Properties.Resources.resources
+H:\软件\资源管理器\资源管理器\obj\x86\Debug\资源管理器.csproj.GenerateResource.Cache
+H:\软件\资源管理器\资源管理器\bin\Debug\资源管理器.exe
+H:\软件\资源管理器\资源管理器\bin\Debug\资源管理器.pdb
+H:\资源管理器开发\资源管理器\资源管理器\obj\x86\Debug\资源管理器.exe
+H:\资源管理器开发\资源管理器\资源管理器\obj\x86\Debug\资源管理器.pdb
+H:\资源管理器开发\资源管理器\资源管理器\bin\Debug\资源管理器.exe
+H:\资源管理器开发\资源管理器\资源管理器\bin\Debug\资源管理器.pdb
+H:\资源管理器开发\资源管理器\资源管理器\obj\x86\Debug\资源管理器.Form1.resources
+H:\资源管理器开发\资源管理器\资源管理器\obj\x86\Debug\资源管理器.Properties.Resources.resources
+H:\资源管理器开发\资源管理器\资源管理器\obj\x86\Debug\资源管理器.csproj.GenerateResource.Cache
+D:\MyDownloads\好例子网_资源管理器\资源管理器\资源管理器\bin\Debug\资源管理器.exe
+D:\MyDownloads\好例子网_资源管理器\资源管理器\资源管理器\bin\Debug\资源管理器.pdb
+D:\MyDownloads\好例子网_资源管理器\资源管理器\资源管理器\obj\x86\Debug\资源管理器.csprojResolveAssemblyReference.cache
+D:\MyDownloads\好例子网_资源管理器\资源管理器\资源管理器\obj\x86\Debug\资源管理器.Form1.resources
+D:\MyDownloads\好例子网_资源管理器\资源管理器\资源管理器\obj\x86\Debug\资源管理器.Properties.Resources.resources
+D:\MyDownloads\好例子网_资源管理器\资源管理器\资源管理器\obj\x86\Debug\资源管理器.csproj.GenerateResource.Cache
+D:\MyDownloads\好例子网_资源管理器\资源管理器\资源管理器\obj\x86\Debug\资源管理器.exe
+D:\MyDownloads\好例子网_资源管理器\资源管理器\资源管理器\obj\x86\Debug\资源管理器.pdb
+D:\Code\C#\mytest\资源管理器\资源管理器\obj\x86\Debug\资源管理器.exe
+D:\Code\C#\mytest\资源管理器\资源管理器\obj\x86\Debug\资源管理器.pdb
+D:\Code\C#\mytest\资源管理器\资源管理器\bin\Debug\资源管理器.exe
+D:\Code\C#\mytest\资源管理器\资源管理器\bin\Debug\资源管理器.pdb
+D:\Code\C#\mytest\资源管理器\资源管理器\obj\x86\Debug\资源管理器.csprojResolveAssemblyReference.cache
+D:\Code\C#\mytest\资源管理器\资源管理器\obj\x86\Debug\资源管理器.Form1.resources
+D:\Code\C#\mytest\资源管理器\资源管理器\obj\x86\Debug\资源管理器.Properties.Resources.resources
+D:\Code\C#\mytest\资源管理器\资源管理器\obj\x86\Debug\资源管理器.csproj.GenerateResource.Cache
+C:\Users\zhy\Documents\Tencent Files\2715337629\FileRecv\资源管理器\资源管理器\资源管理器\obj\x86\Debug\资源管理器.exe
+C:\Users\zhy\Documents\Tencent Files\2715337629\FileRecv\资源管理器\资源管理器\资源管理器\obj\x86\Debug\资源管理器.pdb
+C:\Users\zhy\Documents\Tencent Files\2715337629\FileRecv\资源管理器\资源管理器\资源管理器\bin\Debug\资源管理器.exe
+C:\Users\zhy\Documents\Tencent Files\2715337629\FileRecv\资源管理器\资源管理器\资源管理器\bin\Debug\资源管理器.pdb
+C:\Users\zhy\Documents\Tencent Files\2715337629\FileRecv\资源管理器\资源管理器\资源管理器\obj\x86\Debug\资源管理器.csprojResolveAssemblyReference.cache
+C:\Users\zhy\Documents\Tencent Files\2715337629\FileRecv\资源管理器\资源管理器\资源管理器\obj\x86\Debug\资源管理器.Form1.resources
+C:\Users\zhy\Documents\Tencent Files\2715337629\FileRecv\资源管理器\资源管理器\资源管理器\obj\x86\Debug\资源管理器.Properties.Resources.resources
+C:\Users\zhy\Documents\Tencent Files\2715337629\FileRecv\资源管理器\资源管理器\资源管理器\obj\x86\Debug\资源管理器.csproj.GenerateResource.Cache
+E:\program\C#\现场勘验\资源管理器\资源管理器\资源管理器\obj\x86\Debug\资源管理器.csprojResolveAssemblyReference.cache
+E:\program\C#\现场勘验\资源管理器\资源管理器\资源管理器\obj\x86\Debug\资源管理器.Form1.resources
+E:\program\C#\现场勘验\资源管理器\资源管理器\资源管理器\obj\x86\Debug\资源管理器.csproj.GenerateResource.Cache
+E:\program\C#\现场勘验\资源管理器\资源管理器\资源管理器\bin\Debug\ReportDemo.exe
+E:\program\C#\现场勘验\资源管理器\资源管理器\资源管理器\bin\Debug\ReportDemo.pdb
+E:\program\C#\现场勘验\资源管理器\资源管理器\资源管理器\obj\x86\Debug\ReportDemo.Properties.Resources.resources
+E:\program\C#\现场勘验\资源管理器\资源管理器\资源管理器\obj\x86\Debug\ReportDemo.exe
+E:\program\C#\现场勘验\资源管理器\资源管理器\资源管理器\obj\x86\Debug\ReportDemo.pdb
