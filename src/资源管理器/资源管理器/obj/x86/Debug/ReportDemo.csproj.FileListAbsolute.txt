@@ -5,3 +5,15 @@ E:\program\C#\现场勘验\资源管理器\资源管理器\资源管理器\obj\x
 E:\program\C#\现场勘验\资源管理器\资源管理器\资源管理器\obj\x86\Debug\ReportDemo.exe
 E:\program\C#\现场勘验\资源管理器\资源管理器\资源管理器\obj\x86\Debug\ReportDemo.pdb
 E:\program\C#\现场勘验\资源管理器\资源管理器\资源管理器\obj\x86\Debug\ReportDemo.Form1.resources
+C:\Users\lCLFeng\Desktop\ReportDemo\src\资源管理器\资源管理器\bin\Debug\ReportDemo.exe
+C:\Users\lCLFeng\Desktop\ReportDemo\src\资源管理器\资源管理器\bin\Debug\ReportDemo.pdb
+C:\Users\lCLFeng\Desktop\ReportDemo\src\资源管理器\资源管理器\obj\x86\Debug\ReportDemo.csprojResolveAssemblyReference.cache
+C:\Users\lCLFeng\Desktop\ReportDemo\src\资源管理器\资源管理器\obj\x86\Debug\ReportDemo.Form1.resources
+C:\Users\lCLFeng\Desktop\ReportDemo\src\资源管理器\资源管理器\obj\x86\Debug\ReportDemo.Properties.Resources.resources
+C:\Users\lCLFeng\Desktop\ReportDemo\src\资源管理器\资源管理器\obj\x86\Debug\ReportDemo.csproj.GenerateResource.cache
+C:\Users\lCLFeng\Desktop\ReportDemo\src\资源管理器\资源管理器\obj\x86\Debug\ReportDemo.csproj.CoreCompileInputs.cache
+C:\Users\lCLFeng\Desktop\ReportDemo\src\资源管理器\资源管理器\obj\x86\Debug\ReportDemo.exe
+C:\Users\lCLFeng\Desktop\ReportDemo\src\资源管理器\资源管理器\obj\x86\Debug\ReportDemo.pdb
+C:\Users\lCLFeng\Desktop\ReportDemo\src\资源管理器\资源管理器\obj\x86\Debug\ReportDemo.csproj.CopyComplete
+C:\Users\lCLFeng\Desktop\ReportDemo\src\资源管理器\资源管理器\obj\x86\Debug\ReportDemo.frmFind.resources
+C:\Users\lCLFeng\Desktop\ReportDemo\src\资源管理器\资源管理器\obj\x86\Debug\ReportDemo.frmReplace.resources
